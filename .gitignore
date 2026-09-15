@@ -32,6 +32,11 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# crawl store + scraper cache (local only, never deployed)
+/.data/
+/.cache/
 
 # vercel
 .vercel

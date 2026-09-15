@@ -1,0 +1,1417 @@
+{
+  "handle": "packyops",
+  "exists": true,
+  "userId": "u_creator_packyops",
+  "posts": [
+    {
+      "id": "packyops_p0",
+      "authorHandle": "packyops",
+      "text": "Unpopular opinion about onboarding",
+      "mediaUrls": [],
+      "likeCount": 20,
+      "replyCount": 4,
+      "retweetCount": 10,
+      "createdAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p1",
+      "authorHandle": "packyops",
+      "text": "Stop doing growth loops like this",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 82,
+      "replyCount": 14,
+      "retweetCount": 10,
+      "createdAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p2",
+      "authorHandle": "packyops",
+      "text": "How we 2x'd onboarding in a quarter",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 103,
+      "replyCount": 10,
+      "retweetCount": 20,
+      "createdAt": "2026-07-19T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p3",
+      "authorHandle": "packyops",
+      "text": "The retention mistake everyone makes early",
+      "mediaUrls": [
+        "fixtures/media/textcard.png"
+      ],
+      "likeCount": 71,
+      "replyCount": 8,
+      "retweetCount": 5,
+      "createdAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p4",
+      "authorHandle": "packyops",
+      "text": "What I learned shipping retention for a year",
+      "mediaUrls": [
+        "fixtures/media/photo.png"
+      ],
+      "likeCount": 79,
+      "replyCount": 5,
+      "retweetCount": 16,
+      "createdAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p5",
+      "authorHandle": "packyops",
+      "text": "A framework for thinking about activation",
+      "mediaUrls": [],
+      "likeCount": 114,
+      "replyCount": 14,
+      "retweetCount": 5,
+      "createdAt": "2026-08-29T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p6",
+      "authorHandle": "packyops",
+      "text": "Why most retention advice is wrong",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 139,
+      "replyCount": 12,
+      "retweetCount": 6,
+      "createdAt": "2026-07-18T00:00:00.000Z"
+    },
+    {
+      "id": "packyops_p7",
+      "authorHandle": "packyops",
+      "text": "How we 2x'd onboarding in a quarter",
+      "mediaUrls": [],
+      "likeCount": 38,
+      "replyCount": 12,
+      "retweetCount": 18,
+      "createdAt": "2026-08-14T00:00:00.000Z"
+    }
+  ],
+  "engagersByPost": {
+    "packyops_p0": [
+      {
+        "handle": "buildpath26",
+        "userId": "u_172",
+        "followerCount": 2689,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_150",
+        "followerCount": 6135,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataops15",
+        "userId": "u_49",
+        "followerCount": 14177,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_45",
+        "followerCount": 12007,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev38",
+        "userId": "u_149",
+        "followerCount": 10675,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_45",
+        "followerCount": 12007,
+        "bio": "curious about retention curves",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_46",
+        "followerCount": 6931,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketpilot",
+        "userId": "u_534",
+        "followerCount": 426,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiehub",
+        "userId": "u_60",
+        "followerCount": 10185,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p1": [
+      {
+        "handle": "stackco",
+        "userId": "u_57",
+        "followerCount": 10432,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadrivendana",
+        "userId": "u_177",
+        "followerCount": 119021,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketnode",
+        "userId": "u_62",
+        "followerCount": 9459,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadrivendana",
+        "userId": "u_177",
+        "followerCount": 119021,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketpath58",
+        "userId": "u_145",
+        "followerCount": 6751,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackforge",
+        "userId": "u_56",
+        "followerCount": 14306,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_54",
+        "followerCount": 8635,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedpilot34",
+        "userId": "u_540",
+        "followerCount": 3260,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loophacker",
+        "userId": "u_147",
+        "followerCount": 17769,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloio",
+        "userId": "u_65",
+        "followerCount": 7334,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynccraft",
+        "userId": "u_50",
+        "followerCount": 1932,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revgg",
+        "userId": "u_533",
+        "followerCount": 1596,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketnode",
+        "userId": "u_62",
+        "followerCount": 9459,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackco",
+        "userId": "u_57",
+        "followerCount": 10432,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indiehub",
+        "userId": "u_60",
+        "followerCount": 10185,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiehub",
+        "userId": "u_60",
+        "followerCount": 10185,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p2": [
+      {
+        "handle": "indienode40",
+        "userId": "u_536",
+        "followerCount": 2612,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthdev70",
+        "userId": "u_51",
+        "followerCount": 8679,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designco",
+        "userId": "u_66",
+        "followerCount": 6606,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncstream",
+        "userId": "u_166",
+        "followerCount": 4643,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedcraft97",
+        "userId": "u_167",
+        "followerCount": 18598,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_46",
+        "followerCount": 6931,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadrivendana",
+        "userId": "u_177",
+        "followerCount": 119021,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_150",
+        "followerCount": 6135,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "asyncstream",
+        "userId": "u_166",
+        "followerCount": 4643,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "soloio",
+        "userId": "u_65",
+        "followerCount": 7334,
+        "bio": "Growth loops and PLG",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloio",
+        "userId": "u_65",
+        "followerCount": 7334,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynccraft",
+        "userId": "u_50",
+        "followerCount": 1932,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "opengg",
+        "userId": "u_52",
+        "followerCount": 12048,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_539",
+        "followerCount": 274,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "opengg",
+        "userId": "u_52",
+        "followerCount": 12048,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "builddev",
+        "userId": "u_55",
+        "followerCount": 4620,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seededge",
+        "userId": "u_59",
+        "followerCount": 14522,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketnode",
+        "userId": "u_62",
+        "followerCount": 9459,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designcraft",
+        "userId": "u_47",
+        "followerCount": 4960,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloio",
+        "userId": "u_65",
+        "followerCount": 7334,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p3": [
+      {
+        "handle": "seedlabs96",
+        "userId": "u_63",
+        "followerCount": 7556,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadrivendana",
+        "userId": "u_177",
+        "followerCount": 119021,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_46",
+        "followerCount": 6931,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "launchatx18",
+        "userId": "u_530",
+        "followerCount": 1185,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynccraft",
+        "userId": "u_50",
+        "followerCount": 1932,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designco",
+        "userId": "u_66",
+        "followerCount": 6606,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataops15",
+        "userId": "u_49",
+        "followerCount": 14177,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designcraft",
+        "userId": "u_47",
+        "followerCount": 4960,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p4": [
+      {
+        "handle": "launchatx18",
+        "userId": "u_530",
+        "followerCount": 1185,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_539",
+        "followerCount": 274,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_54",
+        "followerCount": 8635,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designco",
+        "userId": "u_66",
+        "followerCount": 6606,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloio",
+        "userId": "u_65",
+        "followerCount": 7334,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev38",
+        "userId": "u_149",
+        "followerCount": 10675,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_48",
+        "followerCount": 8445,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackco",
+        "userId": "u_57",
+        "followerCount": 10432,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchgg",
+        "userId": "u_541",
+        "followerCount": 1639,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codeco",
+        "userId": "u_61",
+        "followerCount": 13259,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_48",
+        "followerCount": 8445,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackforge",
+        "userId": "u_56",
+        "followerCount": 14306,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designcraft",
+        "userId": "u_47",
+        "followerCount": 4960,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiehub",
+        "userId": "u_60",
+        "followerCount": 10185,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_54",
+        "followerCount": 8635,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p5": [
+      {
+        "handle": "indiehub",
+        "userId": "u_60",
+        "followerCount": 10185,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloforge",
+        "userId": "u_148",
+        "followerCount": 10118,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhacker",
+        "userId": "u_170",
+        "followerCount": 15335,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indienode40",
+        "userId": "u_536",
+        "followerCount": 2612,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revgg",
+        "userId": "u_533",
+        "followerCount": 1596,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackco",
+        "userId": "u_57",
+        "followerCount": 10432,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketpilot",
+        "userId": "u_534",
+        "followerCount": 426,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedcraft97",
+        "userId": "u_167",
+        "followerCount": 18598,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seededge",
+        "userId": "u_59",
+        "followerCount": 14522,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indienode40",
+        "userId": "u_536",
+        "followerCount": 2612,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadrivendana",
+        "userId": "u_177",
+        "followerCount": 119021,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataops15",
+        "userId": "u_49",
+        "followerCount": 14177,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seededge",
+        "userId": "u_59",
+        "followerCount": 14522,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynccraft",
+        "userId": "u_50",
+        "followerCount": 1932,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p6": [
+      {
+        "handle": "revgg",
+        "userId": "u_533",
+        "followerCount": 1596,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_150",
+        "followerCount": 6135,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_45",
+        "followerCount": 12007,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketnode",
+        "userId": "u_62",
+        "followerCount": 9459,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev",
+        "userId": "u_55",
+        "followerCount": 4620,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seededge",
+        "userId": "u_59",
+        "followerCount": 14522,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackforge",
+        "userId": "u_56",
+        "followerCount": 14306,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev",
+        "userId": "u_55",
+        "followerCount": 4620,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_54",
+        "followerCount": 8635,
+        "bio": "curious about retention curves",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketnode",
+        "userId": "u_62",
+        "followerCount": 9459,
+        "bio": "curious about retention curves",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_64",
+        "followerCount": 10865,
+        "bio": "Growth loops and PLG",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedlabs96",
+        "userId": "u_63",
+        "followerCount": 7556,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiphacker",
+        "userId": "u_538",
+        "followerCount": 2300,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seededge",
+        "userId": "u_59",
+        "followerCount": 14522,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "packyops_p7": [
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynccraft",
+        "userId": "u_50",
+        "followerCount": 1932,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_54",
+        "followerCount": 8635,
+        "bio": "curious about retention curves",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev38",
+        "userId": "u_149",
+        "followerCount": 10675,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataops15",
+        "userId": "u_49",
+        "followerCount": 14177,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundworks",
+        "userId": "u_171",
+        "followerCount": 6856,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackforge",
+        "userId": "u_56",
+        "followerCount": 14306,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthdev70",
+        "userId": "u_51",
+        "followerCount": 8679,
+        "bio": "Growth loops and PLG",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackco",
+        "userId": "u_57",
+        "followerCount": 10432,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northio50",
+        "userId": "u_168",
+        "followerCount": 17580,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthdev70",
+        "userId": "u_51",
+        "followerCount": 8679,
+        "bio": "Growth loops and PLG",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seedlabs96",
+        "userId": "u_63",
+        "followerCount": 7556,
+        "bio": "Growth loops and PLG",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solohub",
+        "userId": "u_58",
+        "followerCount": 11379,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchatx18",
+        "userId": "u_530",
+        "followerCount": 1185,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataops15",
+        "userId": "u_49",
+        "followerCount": 14177,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_46",
+        "followerCount": 6931,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedpilot34",
+        "userId": "u_540",
+        "followerCount": 3260,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_46",
+        "followerCount": 6931,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solonode8",
+        "userId": "u_53",
+        "followerCount": 1890,
+        "bio": "Growth loops and PLG",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designco",
+        "userId": "u_66",
+        "followerCount": 6606,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "opengg",
+        "userId": "u_52",
+        "followerCount": 12048,
+        "bio": "Product-led growth, ex-startup",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "builddev",
+        "userId": "u_55",
+        "followerCount": 4620,
+        "bio": "curious about retention curves",
+        "engagementType": "retweet"
+      }
+    ]
+  }
+}

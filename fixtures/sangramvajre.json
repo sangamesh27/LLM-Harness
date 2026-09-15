@@ -1,0 +1,1971 @@
+{
+  "handle": "sangramvajre",
+  "exists": true,
+  "userId": "u_creator_sangramvajre",
+  "posts": [
+    {
+      "id": "sangramvajre_p0",
+      "authorHandle": "sangramvajre",
+      "text": "A thread on discovery calls, saved you the read",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 51,
+      "replyCount": 4,
+      "retweetCount": 9,
+      "createdAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p1",
+      "authorHandle": "sangramvajre",
+      "text": "Stop doing closing like this",
+      "mediaUrls": [],
+      "likeCount": 24,
+      "replyCount": 5,
+      "retweetCount": 7,
+      "createdAt": "2026-07-25T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p2",
+      "authorHandle": "sangramvajre",
+      "text": "A framework for thinking about discovery calls",
+      "mediaUrls": [],
+      "likeCount": 58,
+      "replyCount": 4,
+      "retweetCount": 15,
+      "createdAt": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p3",
+      "authorHandle": "sangramvajre",
+      "text": "A thread on pipeline, saved you the read",
+      "mediaUrls": [],
+      "likeCount": 52,
+      "replyCount": 3,
+      "retweetCount": 16,
+      "createdAt": "2026-08-16T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p4",
+      "authorHandle": "sangramvajre",
+      "text": "How we 2x'd pipeline in a quarter",
+      "mediaUrls": [
+        "fixtures/media/textcard.png"
+      ],
+      "likeCount": 145,
+      "replyCount": 12,
+      "retweetCount": 5,
+      "createdAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p5",
+      "authorHandle": "sangramvajre",
+      "text": "How we 2x'd pipeline in a quarter",
+      "mediaUrls": [],
+      "likeCount": 101,
+      "replyCount": 7,
+      "retweetCount": 19,
+      "createdAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p6",
+      "authorHandle": "sangramvajre",
+      "text": "Why most discovery calls advice is wrong",
+      "mediaUrls": [],
+      "likeCount": 36,
+      "replyCount": 12,
+      "retweetCount": 6,
+      "createdAt": "2026-07-31T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p7",
+      "authorHandle": "sangramvajre",
+      "text": "How we 2x'd cold outbound in a quarter",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 139,
+      "replyCount": 10,
+      "retweetCount": 15,
+      "createdAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p8",
+      "authorHandle": "sangramvajre",
+      "text": "A framework for thinking about pipeline",
+      "mediaUrls": [
+        "fixtures/media/textcard.png"
+      ],
+      "likeCount": 48,
+      "replyCount": 7,
+      "retweetCount": 19,
+      "createdAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p9",
+      "authorHandle": "sangramvajre",
+      "text": "The pipeline mistake everyone makes early",
+      "mediaUrls": [],
+      "likeCount": 33,
+      "replyCount": 8,
+      "retweetCount": 11,
+      "createdAt": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p10",
+      "authorHandle": "sangramvajre",
+      "text": "Why most pipeline advice is wrong",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 42,
+      "replyCount": 11,
+      "retweetCount": 12,
+      "createdAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "sangramvajre_p11",
+      "authorHandle": "sangramvajre",
+      "text": "How we 2x'd closing in a quarter",
+      "mediaUrls": [
+        "fixtures/media/textcard.png"
+      ],
+      "likeCount": 54,
+      "replyCount": 3,
+      "retweetCount": 14,
+      "createdAt": "2026-08-12T00:00:00.000Z"
+    }
+  ],
+  "engagersByPost": {
+    "sangramvajre_p0": [
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalco",
+        "userId": "u_140",
+        "followerCount": 6290,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_256",
+        "followerCount": 4109,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northcraft9",
+        "userId": "u_260",
+        "followerCount": 3980,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketwave99",
+        "userId": "u_27",
+        "followerCount": 8799,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p1": [
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northcraft9",
+        "userId": "u_260",
+        "followerCount": 3980,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchhq",
+        "userId": "u_254",
+        "followerCount": 3232,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloco",
+        "userId": "u_40",
+        "followerCount": 5591,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p2": [
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedgg",
+        "userId": "u_39",
+        "followerCount": 12332,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_256",
+        "followerCount": 4109,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloedge",
+        "userId": "u_265",
+        "followerCount": 1816,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p3": [
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "markethq37",
+        "userId": "u_42",
+        "followerCount": 789,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_255",
+        "followerCount": 467,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "buildpath",
+        "userId": "u_26",
+        "followerCount": 4726,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloco",
+        "userId": "u_40",
+        "followerCount": 5591,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketwave",
+        "userId": "u_33",
+        "followerCount": 3511,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_256",
+        "followerCount": 4109,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northcraft9",
+        "userId": "u_260",
+        "followerCount": 3980,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northcraft9",
+        "userId": "u_260",
+        "followerCount": 3980,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p4": [
+      {
+        "handle": "codenode",
+        "userId": "u_37",
+        "followerCount": 7634,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedforge69",
+        "userId": "u_32",
+        "followerCount": 5056,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncflow",
+        "userId": "u_41",
+        "followerCount": 14095,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipco",
+        "userId": "u_35",
+        "followerCount": 12686,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedhq11",
+        "userId": "u_257",
+        "followerCount": 1349,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncflow",
+        "userId": "u_41",
+        "followerCount": 14095,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designops",
+        "userId": "u_36",
+        "followerCount": 12210,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildpath",
+        "userId": "u_26",
+        "followerCount": 4726,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designops",
+        "userId": "u_36",
+        "followerCount": 12210,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketwave",
+        "userId": "u_33",
+        "followerCount": 3511,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p5": [
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codenode",
+        "userId": "u_37",
+        "followerCount": 7634,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackco67",
+        "userId": "u_264",
+        "followerCount": 1686,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloedge",
+        "userId": "u_265",
+        "followerCount": 1816,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipco",
+        "userId": "u_35",
+        "followerCount": 12686,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codenode",
+        "userId": "u_37",
+        "followerCount": 7634,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchhq",
+        "userId": "u_254",
+        "followerCount": 3232,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p6": [
+      {
+        "handle": "shipco",
+        "userId": "u_35",
+        "followerCount": 12686,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildpath",
+        "userId": "u_26",
+        "followerCount": 4726,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedgg",
+        "userId": "u_39",
+        "followerCount": 12332,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codenode",
+        "userId": "u_37",
+        "followerCount": 7634,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "asyncflow",
+        "userId": "u_41",
+        "followerCount": 14095,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p7": [
+      {
+        "handle": "asynchacker92",
+        "userId": "u_138",
+        "followerCount": 8984,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northcraft9",
+        "userId": "u_260",
+        "followerCount": 3980,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildpath",
+        "userId": "u_26",
+        "followerCount": 4726,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "markethq37",
+        "userId": "u_42",
+        "followerCount": 789,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designops",
+        "userId": "u_36",
+        "followerCount": 12210,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipco",
+        "userId": "u_35",
+        "followerCount": 12686,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketwave99",
+        "userId": "u_27",
+        "followerCount": 8799,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_255",
+        "followerCount": 467,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designdev87",
+        "userId": "u_259",
+        "followerCount": 4671,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath",
+        "userId": "u_43",
+        "followerCount": 13253,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedforge69",
+        "userId": "u_32",
+        "followerCount": 5056,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p8": [
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedgg",
+        "userId": "u_39",
+        "followerCount": 12332,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedforge69",
+        "userId": "u_32",
+        "followerCount": 5056,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketwave99",
+        "userId": "u_27",
+        "followerCount": 8799,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketwave99",
+        "userId": "u_27",
+        "followerCount": 8799,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchhq",
+        "userId": "u_254",
+        "followerCount": 3232,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketio",
+        "userId": "u_258",
+        "followerCount": 754,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncdev74",
+        "userId": "u_24",
+        "followerCount": 9711,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackco67",
+        "userId": "u_264",
+        "followerCount": 1686,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloco",
+        "userId": "u_40",
+        "followerCount": 5591,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p9": [
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_31",
+        "followerCount": 4832,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "codenode",
+        "userId": "u_37",
+        "followerCount": 7634,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scalestream",
+        "userId": "u_261",
+        "followerCount": 683,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalgg",
+        "userId": "u_256",
+        "followerCount": 4109,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_23",
+        "followerCount": 6198,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketwave",
+        "userId": "u_33",
+        "followerCount": 3511,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketwave",
+        "userId": "u_33",
+        "followerCount": 3511,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketwave99",
+        "userId": "u_27",
+        "followerCount": 8799,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p10": [
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildpath",
+        "userId": "u_26",
+        "followerCount": 4726,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "launchhq",
+        "userId": "u_254",
+        "followerCount": 3232,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalco",
+        "userId": "u_140",
+        "followerCount": 6290,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncflow",
+        "userId": "u_41",
+        "followerCount": 14095,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker92",
+        "userId": "u_138",
+        "followerCount": 8984,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketwave",
+        "userId": "u_33",
+        "followerCount": 3511,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "northforge",
+        "userId": "u_25",
+        "followerCount": 7594,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "marketco",
+        "userId": "u_133",
+        "followerCount": 19152,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedatx",
+        "userId": "u_263",
+        "followerCount": 4634,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipco",
+        "userId": "u_35",
+        "followerCount": 12686,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchub",
+        "userId": "u_30",
+        "followerCount": 9358,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_255",
+        "followerCount": 467,
+        "bio": "closing deals, not lying about it",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ],
+    "sangramvajre_p11": [
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedpath",
+        "userId": "u_262",
+        "followerCount": 2850,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloedge",
+        "userId": "u_265",
+        "followerCount": 1816,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker92",
+        "userId": "u_138",
+        "followerCount": 8984,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "datacraft",
+        "userId": "u_29",
+        "followerCount": 6278,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revops14",
+        "userId": "u_44",
+        "followerCount": 1191,
+        "bio": "Enterprise sales | pipeline over vibes",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiplabs",
+        "userId": "u_28",
+        "followerCount": 4741,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedgg",
+        "userId": "u_39",
+        "followerCount": 12332,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codepath",
+        "userId": "u_34",
+        "followerCount": 12270,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "solopath7",
+        "userId": "u_38",
+        "followerCount": 2955,
+        "bio": "SDR to AE, sharing what worked",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ]
+  }
+}

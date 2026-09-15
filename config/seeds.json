@@ -1,0 +1,45 @@
+{
+  "gtm_marketing": [
+    { "handle": "thejustinwelsh", "confidence": "medium" },
+    { "handle": "davegerhardt", "confidence": "medium" },
+    { "handle": "aprildunford", "confidence": "high" },
+    { "handle": "amandanat", "confidence": "high" },
+    { "handle": "peeplaja", "confidence": "medium" }
+  ],
+  "sales": [
+    { "handle": "jasonlk", "confidence": "high" },
+    { "handle": "sangramvajre", "confidence": "medium" },
+    { "handle": "iannarino", "confidence": "medium" },
+    { "handle": "retentionadam", "confidence": "low" }
+  ],
+  "product_growth": [
+    { "handle": "lennysan", "confidence": "high" },
+    { "handle": "gregisenberg", "confidence": "high" },
+    { "handle": "rrhoover", "confidence": "high" },
+    { "handle": "elenaverna", "confidence": "medium" }
+  ],
+  "indie": [
+    { "handle": "levelsio", "confidence": "high" },
+    { "handle": "tdinh_me", "confidence": "high" },
+    { "handle": "damengchen", "confidence": "high" },
+    { "handle": "arvidkahl", "confidence": "high" },
+    { "handle": "dannypostmaa", "confidence": "high" },
+    { "handle": "thepatwalls", "confidence": "medium" },
+    { "handle": "thisiskp_", "confidence": "medium" },
+    { "handle": "marc_louvion", "confidence": "low" }
+  ],
+  "devtools": [
+    { "handle": "swyx", "confidence": "high" },
+    { "handle": "rauchg", "confidence": "high" },
+    { "handle": "adamwathan", "confidence": "high" },
+    { "handle": "shadcn", "confidence": "high" },
+    { "handle": "leeerob", "confidence": "high" },
+    { "handle": "kentcdodds", "confidence": "high" },
+    { "handle": "t3dotgg", "confidence": "medium" }
+  ],
+  "ai": [
+    { "handle": "mattshumer_", "confidence": "medium" },
+    { "handle": "alexalbert__", "confidence": "medium" },
+    { "handle": "danshipper", "confidence": "medium" }
+  ]
+}

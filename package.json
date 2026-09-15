@@ -1,26 +1,42 @@
 {
-  "name": "scaffold-tmp",
+  "name": "creator-overlap-mapper",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:init": "tsx scripts/db-init.ts",
+    "fixtures:media": "tsx scripts/generate-fixture-media.ts",
+    "fixtures:generate": "tsx scripts/generate-fixtures.ts",
+    "seeds:verify": "tsx scripts/verify-seeds.ts",
+    "handlers:test": "tsx scripts/test-handlers.ts",
+    "crawl": "tsx scripts/crawl.ts",
+    "vision": "tsx scripts/vision-pass.ts",
+    "export": "tsx scripts/export-snapshot.ts",
+    "test": "vitest run"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.125.0",
+    "better-sqlite3": "^13.0.3",
+    "d3-force": "^3.0.0",
     "next": "16.3.5",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/d3-force": "^3.0.10",
+    "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.5",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.23.13",
+    "typescript": "^5",
+    "vitest": "^5.0.1"
   }
 }

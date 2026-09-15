@@ -1,0 +1,2254 @@
+{
+  "handle": "aprildunford",
+  "exists": true,
+  "userId": "u_creator_aprildunford",
+  "posts": [
+    {
+      "id": "aprildunford_p0",
+      "authorHandle": "aprildunford",
+      "text": "How we 2x'd GTM motion in a quarter",
+      "mediaUrls": [],
+      "likeCount": 37,
+      "replyCount": 9,
+      "retweetCount": 15,
+      "createdAt": "2026-08-09T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p1",
+      "authorHandle": "aprildunford",
+      "text": "Unpopular opinion about messaging",
+      "mediaUrls": [],
+      "likeCount": 117,
+      "replyCount": 14,
+      "retweetCount": 4,
+      "createdAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p2",
+      "authorHandle": "aprildunford",
+      "text": "Unpopular opinion about positioning",
+      "mediaUrls": [],
+      "likeCount": 146,
+      "replyCount": 11,
+      "retweetCount": 14,
+      "createdAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p3",
+      "authorHandle": "aprildunford",
+      "text": "A framework for thinking about launches",
+      "mediaUrls": [],
+      "likeCount": 107,
+      "replyCount": 8,
+      "retweetCount": 14,
+      "createdAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p4",
+      "authorHandle": "aprildunford",
+      "text": "The GTM motion mistake everyone makes early",
+      "mediaUrls": [],
+      "likeCount": 59,
+      "replyCount": 10,
+      "retweetCount": 9,
+      "createdAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p5",
+      "authorHandle": "aprildunford",
+      "text": "Unpopular opinion about messaging",
+      "mediaUrls": [
+        "fixtures/media/photo.png"
+      ],
+      "likeCount": 160,
+      "replyCount": 12,
+      "retweetCount": 18,
+      "createdAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p6",
+      "authorHandle": "aprildunford",
+      "text": "Unpopular opinion about GTM motion",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 36,
+      "replyCount": 4,
+      "retweetCount": 14,
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p7",
+      "authorHandle": "aprildunford",
+      "text": "Why most messaging advice is wrong",
+      "mediaUrls": [],
+      "likeCount": 90,
+      "replyCount": 6,
+      "retweetCount": 14,
+      "createdAt": "2026-08-05T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p8",
+      "authorHandle": "aprildunford",
+      "text": "A framework for thinking about positioning",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 136,
+      "replyCount": 14,
+      "retweetCount": 5,
+      "createdAt": "2026-07-18T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p9",
+      "authorHandle": "aprildunford",
+      "text": "A thread on launches, saved you the read",
+      "mediaUrls": [],
+      "likeCount": 51,
+      "replyCount": 6,
+      "retweetCount": 6,
+      "createdAt": "2026-08-05T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p10",
+      "authorHandle": "aprildunford",
+      "text": "Why most messaging advice is wrong",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 36,
+      "replyCount": 10,
+      "retweetCount": 17,
+      "createdAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "aprildunford_p11",
+      "authorHandle": "aprildunford",
+      "text": "Why most messaging advice is wrong",
+      "mediaUrls": [],
+      "likeCount": 107,
+      "replyCount": 14,
+      "retweetCount": 19,
+      "createdAt": "2026-07-24T00:00:00.000Z"
+    }
+  ],
+  "engagersByPost": {
+    "aprildunford_p0": [
+      {
+        "handle": "solohacker",
+        "userId": "u_5",
+        "followerCount": 957,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieforge86",
+        "userId": "u_215",
+        "followerCount": 1905,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthlabs",
+        "userId": "u_6",
+        "followerCount": 8190,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "founddev55",
+        "userId": "u_212",
+        "followerCount": 3845,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "launchflow",
+        "userId": "u_19",
+        "followerCount": 11896,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundflow",
+        "userId": "u_217",
+        "followerCount": 1702,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthlabs",
+        "userId": "u_6",
+        "followerCount": 8190,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p1": [
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieforge86",
+        "userId": "u_215",
+        "followerCount": 1905,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "founddev55",
+        "userId": "u_212",
+        "followerCount": 3845,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketco",
+        "userId": "u_133",
+        "followerCount": 19152,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scaleco",
+        "userId": "u_3",
+        "followerCount": 4951,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackflow",
+        "userId": "u_4",
+        "followerCount": 555,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketco",
+        "userId": "u_133",
+        "followerCount": 19152,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalcraft",
+        "userId": "u_1",
+        "followerCount": 10211,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "signalco",
+        "userId": "u_140",
+        "followerCount": 6290,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shippath",
+        "userId": "u_21",
+        "followerCount": 3736,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openhub1",
+        "userId": "u_210",
+        "followerCount": 3538,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p2": [
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalcraft",
+        "userId": "u_1",
+        "followerCount": 10211,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadev90",
+        "userId": "u_135",
+        "followerCount": 12320,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker92",
+        "userId": "u_138",
+        "followerCount": 8984,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "asynchacker92",
+        "userId": "u_138",
+        "followerCount": 8984,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openhub1",
+        "userId": "u_210",
+        "followerCount": 3538,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p3": [
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthlabs",
+        "userId": "u_6",
+        "followerCount": 8190,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhub1",
+        "userId": "u_210",
+        "followerCount": 3538,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadev90",
+        "userId": "u_135",
+        "followerCount": 12320,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "launchflow",
+        "userId": "u_19",
+        "followerCount": 11896,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scaleco",
+        "userId": "u_3",
+        "followerCount": 4951,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p4": [
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scaleco",
+        "userId": "u_3",
+        "followerCount": 4951,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "launchflow",
+        "userId": "u_19",
+        "followerCount": 11896,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indieforge86",
+        "userId": "u_215",
+        "followerCount": 1905,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p5": [
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solohacker",
+        "userId": "u_5",
+        "followerCount": 957,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackforge30",
+        "userId": "u_10",
+        "followerCount": 1583,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackflow",
+        "userId": "u_4",
+        "followerCount": 555,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "launchflow",
+        "userId": "u_19",
+        "followerCount": 11896,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seedflow",
+        "userId": "u_11",
+        "followerCount": 1775,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco29",
+        "userId": "u_206",
+        "followerCount": 2743,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalcraft",
+        "userId": "u_1",
+        "followerCount": 10211,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p6": [
+      {
+        "handle": "growthstream",
+        "userId": "u_20",
+        "followerCount": 2384,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "signalco",
+        "userId": "u_140",
+        "followerCount": 6290,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiphacker",
+        "userId": "u_207",
+        "followerCount": 4196,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p7": [
+      {
+        "handle": "foundflow",
+        "userId": "u_217",
+        "followerCount": 1702,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthlabs",
+        "userId": "u_6",
+        "followerCount": 8190,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_134",
+        "followerCount": 15537,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackforge30",
+        "userId": "u_10",
+        "followerCount": 1583,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scaleco",
+        "userId": "u_3",
+        "followerCount": 4951,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p8": [
+      {
+        "handle": "openforge",
+        "userId": "u_142",
+        "followerCount": 2761,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "opennode",
+        "userId": "u_137",
+        "followerCount": 11439,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openco29",
+        "userId": "u_206",
+        "followerCount": 2743,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedflow",
+        "userId": "u_11",
+        "followerCount": 1775,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_213",
+        "followerCount": 4493,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shippath",
+        "userId": "u_21",
+        "followerCount": 3736,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedflow",
+        "userId": "u_11",
+        "followerCount": 1775,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designnode",
+        "userId": "u_141",
+        "followerCount": 12290,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "founddev55",
+        "userId": "u_212",
+        "followerCount": 3845,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p9": [
+      {
+        "handle": "marketco",
+        "userId": "u_133",
+        "followerCount": 19152,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhub1",
+        "userId": "u_210",
+        "followerCount": 3538,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadev90",
+        "userId": "u_135",
+        "followerCount": 12320,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedflow",
+        "userId": "u_11",
+        "followerCount": 1775,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shiphq",
+        "userId": "u_7",
+        "followerCount": 12231,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackforge30",
+        "userId": "u_10",
+        "followerCount": 1583,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p10": [
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthatx41",
+        "userId": "u_216",
+        "followerCount": 1135,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "signalforge",
+        "userId": "u_9",
+        "followerCount": 11210,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_14",
+        "followerCount": 3104,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_18",
+        "followerCount": 8406,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackworks",
+        "userId": "u_2",
+        "followerCount": 13050,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "codehub57",
+        "userId": "u_209",
+        "followerCount": 3233,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "datawave56",
+        "userId": "u_8",
+        "followerCount": 9153,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      }
+    ],
+    "aprildunford_p11": [
+      {
+        "handle": "signalcraft",
+        "userId": "u_1",
+        "followerCount": 10211,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthloopz",
+        "userId": "u_175",
+        "followerCount": 55614,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "northworks",
+        "userId": "u_213",
+        "followerCount": 4493,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieforge86",
+        "userId": "u_215",
+        "followerCount": 1905,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalcraft",
+        "userId": "u_1",
+        "followerCount": 10211,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketco",
+        "userId": "u_133",
+        "followerCount": 19152,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "datadev90",
+        "userId": "u_135",
+        "followerCount": 12320,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designpilot",
+        "userId": "u_13",
+        "followerCount": 1625,
+        "bio": "messaging > tactics",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco53",
+        "userId": "u_136",
+        "followerCount": 11409,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_22",
+        "followerCount": 3501,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackcraft",
+        "userId": "u_139",
+        "followerCount": 8693,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "scaleco",
+        "userId": "u_3",
+        "followerCount": 4951,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revworks",
+        "userId": "u_17",
+        "followerCount": 12726,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indieforge86",
+        "userId": "u_215",
+        "followerCount": 1905,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openops",
+        "userId": "u_208",
+        "followerCount": 3067,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataedge",
+        "userId": "u_16",
+        "followerCount": 9146,
+        "bio": "GTM strategy | positioning nerd",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "marketdev",
+        "userId": "u_211",
+        "followerCount": 487,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloops",
+        "userId": "u_15",
+        "followerCount": 8661,
+        "bio": "messaging > tactics",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "shiphacker",
+        "userId": "u_207",
+        "followerCount": 4196,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "dataio11",
+        "userId": "u_12",
+        "followerCount": 729,
+        "bio": "B2B marketing, occasionally useful",
+        "engagementType": "retweet"
+      }
+    ]
+  }
+}

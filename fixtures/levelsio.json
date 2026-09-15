@@ -1,0 +1,2016 @@
+{
+  "handle": "levelsio",
+  "exists": true,
+  "userId": "u_creator_levelsio",
+  "posts": [
+    {
+      "id": "levelsio_p0",
+      "authorHandle": "levelsio",
+      "text": "A framework for thinking about distribution",
+      "mediaUrls": [],
+      "likeCount": 40,
+      "replyCount": 11,
+      "retweetCount": 18,
+      "createdAt": "2026-08-08T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p1",
+      "authorHandle": "levelsio",
+      "text": "What I learned shipping pricing for a year",
+      "mediaUrls": [
+        "fixtures/media/photo.png"
+      ],
+      "likeCount": 55,
+      "replyCount": 4,
+      "retweetCount": 10,
+      "createdAt": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p2",
+      "authorHandle": "levelsio",
+      "text": "A thread on distribution, saved you the read",
+      "mediaUrls": [],
+      "likeCount": 56,
+      "replyCount": 9,
+      "retweetCount": 19,
+      "createdAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p3",
+      "authorHandle": "levelsio",
+      "text": "A thread on distribution, saved you the read",
+      "mediaUrls": [],
+      "likeCount": 98,
+      "replyCount": 9,
+      "retweetCount": 9,
+      "createdAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p4",
+      "authorHandle": "levelsio",
+      "text": "Why most solo building advice is wrong",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 31,
+      "replyCount": 3,
+      "retweetCount": 5,
+      "createdAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p5",
+      "authorHandle": "levelsio",
+      "text": "Stop doing solo building like this",
+      "mediaUrls": [],
+      "likeCount": 108,
+      "replyCount": 8,
+      "retweetCount": 7,
+      "createdAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p6",
+      "authorHandle": "levelsio",
+      "text": "Stop doing solo building like this",
+      "mediaUrls": [],
+      "likeCount": 66,
+      "replyCount": 6,
+      "retweetCount": 14,
+      "createdAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p7",
+      "authorHandle": "levelsio",
+      "text": "How we 2x'd distribution in a quarter",
+      "mediaUrls": [],
+      "likeCount": 65,
+      "replyCount": 8,
+      "retweetCount": 10,
+      "createdAt": "2026-08-07T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p8",
+      "authorHandle": "levelsio",
+      "text": "How we 2x'd solo building in a quarter",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 97,
+      "replyCount": 8,
+      "retweetCount": 11,
+      "createdAt": "2026-08-15T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p9",
+      "authorHandle": "levelsio",
+      "text": "What I learned shipping solo building for a year",
+      "mediaUrls": [],
+      "likeCount": 156,
+      "replyCount": 12,
+      "retweetCount": 12,
+      "createdAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p10",
+      "authorHandle": "levelsio",
+      "text": "Stop doing pricing like this",
+      "mediaUrls": [],
+      "likeCount": 58,
+      "replyCount": 10,
+      "retweetCount": 18,
+      "createdAt": "2026-08-23T00:00:00.000Z"
+    },
+    {
+      "id": "levelsio_p11",
+      "authorHandle": "levelsio",
+      "text": "What I learned shipping shipping fast for a year",
+      "mediaUrls": [
+        "fixtures/media/chart.png"
+      ],
+      "likeCount": 34,
+      "replyCount": 9,
+      "retweetCount": 10,
+      "createdAt": "2026-08-12T00:00:00.000Z"
+    }
+  ],
+  "engagersByPost": {
+    "levelsio_p0": [
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_150",
+        "followerCount": 6135,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scaleio",
+        "userId": "u_335",
+        "followerCount": 4926,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath",
+        "userId": "u_67",
+        "followerCount": 1128,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_80",
+        "followerCount": 8066,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "sololabs",
+        "userId": "u_328",
+        "followerCount": 1520,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p1": [
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loophacker",
+        "userId": "u_147",
+        "followerCount": 17769,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indieatx59",
+        "userId": "u_326",
+        "followerCount": 911,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhacker27",
+        "userId": "u_69",
+        "followerCount": 10651,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_80",
+        "followerCount": 8066,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p2": [
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seedhacker27",
+        "userId": "u_69",
+        "followerCount": 10651,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildhub23",
+        "userId": "u_74",
+        "followerCount": 14861,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalpath24",
+        "userId": "u_336",
+        "followerCount": 2108,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solofounder_max",
+        "userId": "u_176",
+        "followerCount": 91958,
+        "bio": "quietly building something",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildco",
+        "userId": "u_88",
+        "followerCount": 6677,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhacker27",
+        "userId": "u_69",
+        "followerCount": 10651,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedforge",
+        "userId": "u_327",
+        "followerCount": 1027,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "soloforge",
+        "userId": "u_331",
+        "followerCount": 4558,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhub",
+        "userId": "u_334",
+        "followerCount": 2020,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indieatx59",
+        "userId": "u_326",
+        "followerCount": 911,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p3": [
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_150",
+        "followerCount": 6135,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solohub",
+        "userId": "u_75",
+        "followerCount": 965,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketpath",
+        "userId": "u_82",
+        "followerCount": 4140,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloforge",
+        "userId": "u_148",
+        "followerCount": 10118,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indiedev78",
+        "userId": "u_76",
+        "followerCount": 7824,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedforge",
+        "userId": "u_327",
+        "followerCount": 1027,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scaleio",
+        "userId": "u_335",
+        "followerCount": 4926,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiedev78",
+        "userId": "u_76",
+        "followerCount": 7824,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p4": [
+      {
+        "handle": "soloforge",
+        "userId": "u_148",
+        "followerCount": 10118,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p5": [
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_151",
+        "followerCount": 19566,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solohub",
+        "userId": "u_75",
+        "followerCount": 965,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev38",
+        "userId": "u_149",
+        "followerCount": 10675,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloforge",
+        "userId": "u_331",
+        "followerCount": 4558,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_81",
+        "followerCount": 4617,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indieatx59",
+        "userId": "u_326",
+        "followerCount": 911,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath24",
+        "userId": "u_336",
+        "followerCount": 2108,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedforge",
+        "userId": "u_327",
+        "followerCount": 1027,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p6": [
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solofounder_max",
+        "userId": "u_176",
+        "followerCount": 91958,
+        "bio": "quietly building something",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_337",
+        "followerCount": 3849,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhub",
+        "userId": "u_334",
+        "followerCount": 2020,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p7": [
+      {
+        "handle": "sololabs",
+        "userId": "u_328",
+        "followerCount": 1520,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieatx59",
+        "userId": "u_326",
+        "followerCount": 911,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_81",
+        "followerCount": 4617,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "indiedev78",
+        "userId": "u_76",
+        "followerCount": 7824,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildhub23",
+        "userId": "u_74",
+        "followerCount": 14861,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhacker27",
+        "userId": "u_69",
+        "followerCount": 10651,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p8": [
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_80",
+        "followerCount": 8066,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_337",
+        "followerCount": 3849,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "signalpath",
+        "userId": "u_67",
+        "followerCount": 1128,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildhub23",
+        "userId": "u_74",
+        "followerCount": 14861,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "sololabs",
+        "userId": "u_328",
+        "followerCount": 1520,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath24",
+        "userId": "u_336",
+        "followerCount": 2108,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "sololabs",
+        "userId": "u_328",
+        "followerCount": 1520,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackgg",
+        "userId": "u_332",
+        "followerCount": 1055,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_80",
+        "followerCount": 8066,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p9": [
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_81",
+        "followerCount": 4617,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "soloforge",
+        "userId": "u_148",
+        "followerCount": 10118,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scaleio",
+        "userId": "u_335",
+        "followerCount": 4926,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openhq",
+        "userId": "u_86",
+        "followerCount": 3470,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthops",
+        "userId": "u_68",
+        "followerCount": 12509,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solofounder_max",
+        "userId": "u_176",
+        "followerCount": 91958,
+        "bio": "quietly building something",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "growthgg",
+        "userId": "u_77",
+        "followerCount": 13121,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_151",
+        "followerCount": 19566,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "builddev38",
+        "userId": "u_149",
+        "followerCount": 10675,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath",
+        "userId": "u_67",
+        "followerCount": 1128,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackgg",
+        "userId": "u_332",
+        "followerCount": 1055,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "buildhub23",
+        "userId": "u_74",
+        "followerCount": 14861,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indieflow",
+        "userId": "u_73",
+        "followerCount": 2190,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p10": [
+      {
+        "handle": "growthpilot48",
+        "userId": "u_71",
+        "followerCount": 4541,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco",
+        "userId": "u_88",
+        "followerCount": 6677,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designdev",
+        "userId": "u_144",
+        "followerCount": 15067,
+        "bio": "wears two hats",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncstream43",
+        "userId": "u_333",
+        "followerCount": 403,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "packyops",
+        "userId": "u_173",
+        "followerCount": 20713,
+        "bio": "lurker who occasionally posts good takes",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asynchacker99",
+        "userId": "u_84",
+        "followerCount": 3569,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco",
+        "userId": "u_88",
+        "followerCount": 6677,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solohub",
+        "userId": "u_75",
+        "followerCount": 965,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildatx",
+        "userId": "u_81",
+        "followerCount": 4617,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "solodev94",
+        "userId": "u_146",
+        "followerCount": 2786,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "seedhacker27",
+        "userId": "u_69",
+        "followerCount": 10651,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "sololabs",
+        "userId": "u_328",
+        "followerCount": 1520,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackgg",
+        "userId": "u_332",
+        "followerCount": 1055,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_178",
+        "followerCount": 861542,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "revflow",
+        "userId": "u_329",
+        "followerCount": 1884,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiedev78",
+        "userId": "u_76",
+        "followerCount": 7824,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seedhub",
+        "userId": "u_334",
+        "followerCount": 2020,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "designatx15",
+        "userId": "u_78",
+        "followerCount": 8506,
+        "bio": "shipping side projects",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "foundops",
+        "userId": "u_330",
+        "followerCount": 3210,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ],
+    "levelsio_p11": [
+      {
+        "handle": "revnode",
+        "userId": "u_72",
+        "followerCount": 9083,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "loopforge",
+        "userId": "u_80",
+        "followerCount": 8066,
+        "bio": "shipping side projects",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "asyncpilot",
+        "userId": "u_70",
+        "followerCount": 13378,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildco",
+        "userId": "u_88",
+        "followerCount": 6677,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "buildhub23",
+        "userId": "u_74",
+        "followerCount": 14861,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "scalegg14",
+        "userId": "u_79",
+        "followerCount": 10069,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "shipflow",
+        "userId": "u_151",
+        "followerCount": 19566,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "openpilot",
+        "userId": "u_337",
+        "followerCount": 3849,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "reply"
+      },
+      {
+        "handle": "marketpath",
+        "userId": "u_82",
+        "followerCount": 4140,
+        "bio": "shipping side projects",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "loophacker",
+        "userId": "u_147",
+        "followerCount": 17769,
+        "bio": "wears two hats",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "buildops",
+        "userId": "u_143",
+        "followerCount": 15783,
+        "bio": "GTM + product, depends on the day",
+        "engagementType": "quote"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "signalpath",
+        "userId": "u_67",
+        "followerCount": 1128,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "seeddev64",
+        "userId": "u_180",
+        "followerCount": 1623389,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "indiecraft",
+        "userId": "u_87",
+        "followerCount": 4156,
+        "bio": "indie hacker, bootstrapped",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openworks",
+        "userId": "u_179",
+        "followerCount": 940083,
+        "bio": "Startup news, retweets everything",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "stackpilot",
+        "userId": "u_85",
+        "followerCount": 10277,
+        "bio": "Building in public, solo founder",
+        "engagementType": "retweet"
+      },
+      {
+        "handle": "openco",
+        "userId": "u_181",
+        "followerCount": 1270680,
+        "bio": "viral takes account",
+        "engagementType": "retweet"
+      }
+    ]
+  }
+}
